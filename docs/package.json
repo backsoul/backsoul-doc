@@ -1,0 +1,19 @@
+{
+  "name": "backsoul-doc",
+  "version": "0.0.1",
+  "description": "project documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "Daniel Sarmiento",
+    "email": "danielsarmientoenterprise@gmail.com"
+  },
+  "repository": "git@github.com:backsoul/backsoul-doc.git/backsoul-doc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
